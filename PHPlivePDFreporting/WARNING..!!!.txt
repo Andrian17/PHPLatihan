@@ -1,0 +1,6 @@
+download vendonya dulu menggunakan composer
+https://mpdf.github.io/installation-setup/installation-v7-x.html
+
+composer require mpdf/mpdf
+
+nama nya mpdf
